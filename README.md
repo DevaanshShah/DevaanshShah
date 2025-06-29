@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/shah__devaansh" target="blank"><img src="https://img.shields.io/twitter/follow/shah__devaansh?logo=twitter&style=for-the-badge" alt="shah__devaansh" /></a> </p>
 
-- 🔭 I’m currently working on [Kaizen ( an alternative to Bloomberg)](https://kaizendev-sigma.vercel.app/)
 
 - 🌱 I’m currently learning **Full stack development/deployment and AI/ML concepts**
 
