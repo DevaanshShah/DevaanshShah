@@ -12,7 +12,7 @@
 
 - 🔭 I’m also currently working on **Research Paper for Cervical Cancer Detection using segmentation techniques**
 
-- 💬 Ask me about **NEXT.JS ,SQL, REACT , PYTHON , C++**
+- 💬 Ask me about **HTML,CSS,JS ,SQL, REACT , PYTHON , C++**
 
 - 📫 How to reach me **devaanshwork30@gmail.com**
 
