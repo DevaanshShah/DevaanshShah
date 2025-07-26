@@ -10,10 +10,6 @@
 
 - 👯 I’m looking to collaborate on **ResourceX ( a smart platform for students to manage, share, and optimize learning & research resources.)**
 
-- 🔭 I’m also currently working on **Research Paper for Cervical Cancer Detection using segmentation techniques**
-
-- 💬 Ask me about **HTML,CSS,JS ,SQL, REACT , PYTHON , C++**
-
 - 📫 How to reach me **devaanshwork30@gmail.com**
 
 - ⚡ Fun fact **I code by day, game by night, and occasionally pretend I’m an Olympic swimmer in between commits.**
