@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **ResourceX ( a smart platform for students to manage, share, and optimize learning & research resources.)**
 
 -📫 How to reach me **devaanshwork30@gmail.com**
--  You can check out my Projects at <a></a> https://mehfil-hacknovate-6-0-amnb.vercel.app/
+-  You can check out my Projects at <a></a>(https://scriptforge-ai-plum.vercel.app/)
 
 - ⚡ Fun fact **I code by day, game by night, and occasionally pretend I’m an Olympic swimmer in between commits.**
 
