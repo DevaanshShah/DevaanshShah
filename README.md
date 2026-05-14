@@ -133,29 +133,15 @@ Attention-guided ConvNeXt-U-Net hybrid for cervical cell classification and segm
 - Top 10 — SIH 2025
 - Top 10 — Quasar 4.0
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## Connect With Me
 
 📧 Email: devaanshwork30@gmail.com  
 
-🔗 LinkedIn: YOUR_LINKEDIN_LINK  
+🔗 LinkedIn: [https://www.linkedin.com/in/devaanshshah12/)]
 
-🔗 Portfolio / Website: YOUR_WEBSITE_LINK
 
----
 
 <p align="center">
 Building intelligent systems, one project at a time.
