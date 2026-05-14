@@ -1,30 +1,163 @@
-<h1 align="center">Hi 👋, I'm Devaansh</h1>
-<h3 align="center">I'm a curious developer-in-progress 💻, exploring the world of Machine Learning 🤖, full-stack development 🌐, and meaningful tech projects that solve real problems.</h3>
+# Hi, I'm Devaansh Shah
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devaanshshah&label=Profile%20views&color=0e75b6&style=flat" alt="devaanshshah" /> </p>
+AI & Data Engineering Student | Full Stack Developer | Building Intelligent Systems
 
-<p align="left"> <a href="https://twitter.com/shah__devaansh" target="blank"><img src="https://img.shields.io/twitter/follow/shah__devaansh?logo=twitter&style=for-the-badge" alt="shah__devaansh" /></a> </p>
+📍 Mumbai, India  
+💼 AI Intern @ Vibe Engine AI  
+🎓 B.Tech CSE (Data Science) — DJSCE  
 
+---
 
-- 🌱 I’m currently learning **Full stack development/deployment and AI/ML concepts**
+## About Me
 
-- 👯 I’m looking to collaborate on **ResourceX ( a smart platform for students to manage, share, and optimize learning & research resources.)**
+I’m a Computer Science student focused on building scalable AI systems, intelligent data pipelines, and full-stack applications.
 
--📫 How to reach me **devaanshwork30@gmail.com**
--  You can check out my Projects at <a></a>(https://scriptforge-ai-plum.vercel.app/)
+My interests include:
+- AI Engineering
+- Data Engineering
+- NLP & Knowledge Graphs
+- Cybersecurity AI
+- Full Stack Development
 
-- ⚡ Fun fact **I code by day, game by night, and occasionally pretend I’m an Olympic swimmer in between commits.**
+I enjoy building real-world systems that combine machine learning, backend engineering, and interactive user experiences.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shah__devaansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shah__devaansh" height="30" width="40" /></a>
+---
+
+## Experience
+
+### AI Intern — Vibe Engine AI
+**April 2026 – Present**
+
+- Built AI-driven intelligence workflows for competitive analysis and lead discovery
+- Developed concurrent data collection pipelines and contextual tagging systems
+- Worked on dashboard generation and chatbot-based automation systems
+- Designed scalable backend workflows for processing and analyzing large datasets
+
+---
+
+### Data Engineering Intern — CloudFronts Technologies
+**June 2025 – July 2025**
+
+- Processed large-scale semi-structured JSON datasets using PySpark and Azure Databricks
+- Built optimized ETL workflows and transformed datasets into Parquet tables
+- Analyzed festival sales trends and created Power BI dashboards
+- Improved analytics pipeline efficiency and reporting workflows
+
+---
+
+# Featured Projects
+
+## ARGUS — Adaptive Risk & Generative Understanding System
+
+AI-powered cybersecurity platform for detecting and analyzing multi-modal threats across web and AI interfaces.
+
+### Features
+- Malicious URL detection
+- Prompt injection defense
+- Phishing email analysis
+- Deepfake indicator detection
+- User behavior analytics
+
+### Tech Stack
+`FastAPI` `React` `MongoDB` `Python` `Machine Learning`
+
+🔗 [GitHub Repo](YOUR_ARGUS_LINK)
+
+---
+
+## ScriptForgeAI
+
+AI-powered multi-agent storytelling platform for script analysis and narrative consistency validation.
+
+### Features
+- Automated genre and structure analysis
+- Neo4j-powered knowledge graph
+- Narrative contradiction detection
+- Scene suggestion generation
+- Timeline and contextual reasoning
+
+### Tech Stack
+`Next.js` `React` `Neo4j` `TypeScript` `MongoDB`
+
+🔗 [GitHub Repo](YOUR_SCRIPTFORGE_LINK)
+
+---
+
+## Cervical Cancer Diagnostics Research
+
+Attention-guided ConvNeXt-U-Net hybrid for cervical cell classification and segmentation using explainable AI techniques.
+
+### Features
+- Cell segmentation
+- Explainable AI with SHAP
+- Attention-guided feature extraction
+- Medical image analysis
+
+### Tech Stack
+`PyTorch` `OpenCV` `Deep Learning` `SHAP`
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![Neo4j](https://img.shields.io/badge/Neo4j-black?style=flat-square&logo=neo4j)
+
+### AI & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
+![PySpark](https://img.shields.io/badge/PySpark-black?style=flat-square&logo=apachespark)
+![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoftazure)
+![PowerBI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi)
+
+---
+
+## Achievements
+
+- Research paper accepted at ISCSE Conference for AI-driven cervical cancer diagnostics
+- Winner — Techvanza 2026
+- Finalist — Hacknovate 6.0
+- Finalist — TSEC Hacks 2026
+- Top 10 — SIH 2025
+- Top 10 — Quasar 4.0
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devaanshshah&show_icons=true&locale=en&layout=compact" alt="devaanshshah" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devaanshshah&show_icons=true&locale=en" alt="devaanshshah" /></p>
+## Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaanshshah&" alt="devaanshshah" /></p>
+📧 Email: devaanshwork30@gmail.com  
+
+🔗 LinkedIn: YOUR_LINKEDIN_LINK  
+
+🔗 Portfolio / Website: YOUR_WEBSITE_LINK
+
+---
+
+<p align="center">
+Building intelligent systems, one project at a time.
+</p>
+```
