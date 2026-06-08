@@ -15,8 +15,7 @@ I’m a Computer Science student focused on building scalable AI systems, intell
 My interests include:
 - AI Engineering
 - Data Engineering
-- NLP & Knowledge Graphs
-- Cybersecurity AI
+- NLP & Computer Vision
 - Full Stack Development
 
 I enjoy building real-world systems that combine machine learning, backend engineering, and interactive user experiences.
